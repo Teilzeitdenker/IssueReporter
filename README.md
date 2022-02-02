@@ -8,4 +8,4 @@ that it has the `repo` access.
 Once you have the token, add it to the secrets.jl file.
 
 You can now open issues by invoking:
-`IssueReporter.report("Julia package name", "issue title", "issue body")
+`IssueReporter.report("Julia package name", "issue title", "issue body")`
